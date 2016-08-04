@@ -12,3 +12,7 @@ color:
     - '#F2EBC7'
     - '#348899'
 name: Essential Coffee Kit - Landing
+navigation:
+  - name: Link to Blog
+    url: 'http://michaelterwindt.com/'
+    type: external
