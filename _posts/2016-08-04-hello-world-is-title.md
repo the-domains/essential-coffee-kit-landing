@@ -1,13 +1,13 @@
 ---
 description: This is text
-dateModified: '2016-08-04T11:10:00.411Z'
-datePublished: '2016-08-04T11:10:07.196Z'
+dateModified: '2016-08-04T11:10:15.672Z'
+datePublished: '2016-08-04T11:10:16.469Z'
 title: 'Hello world, is title?'
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-04-hello-world-is-title.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
