@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Essential Coffee Kit - Landing]]></title>
         <description><![CDATA[Essential Coffee Kit - Landing]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/essential-coffee-kit-landing/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Aug 2016 11:06:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 04 Aug 2016 11:12:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/essential-coffee-kit-landing/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hello world, is title?]]></title>
+            <description><![CDATA[<article><h1>Hello world, is title?</h1><h2>Heading 2</h2><p>This is text</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cfaae38a-055a-4828-93b7-570530e0c9eb.png"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/cfaae38a-055a-4828-93b7-570530e0c9eb.png</link>
+            <guid isPermaLink="false">c9472446-df7c-41a7-bdb7-b012898fff2e</guid>
+            <pubDate>Thu, 04 Aug 2016 11:12:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8308638c-19be-4285-844b-49e5af3fca02.png">]]></description>
-            <link>undefinedea01af85-e28c-411a-a1e5-e68edd7d5c4c/index.html</link>
+            <link>https://thegrid.ai/essential-coffee-kit-landing/ea01af85-e28c-411a-a1e5-e68edd7d5c4c/index.html</link>
             <guid isPermaLink="false">ea01af85-e28c-411a-a1e5-e68edd7d5c4c</guid>
             <pubDate>Thu, 04 Aug 2016 11:06:55 GMT</pubDate>
         </item>
